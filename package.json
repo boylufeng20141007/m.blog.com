@@ -1,0 +1,39 @@
+{
+  "name": "m.blog.com",
+  "version": "1.0.0",
+  "description": "react reflux redux webpack koa mysql gulp",
+  "main": "app.js",
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boylufeng20141007/m.blog.com.git"
+  },
+  "keywords": [
+    "react",
+    "reflux",
+    "redux",
+    "webpack",
+    "koa",
+    "mysql",
+    "gulp",
+    "grunt",
+    "sass",
+    "less",
+    "compass"
+  ],
+  "author": "lux.lu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boylufeng20141007/m.blog.com/issues"
+  },
+  "homepage": "https://github.com/boylufeng20141007/m.blog.com#readme",
+  "dependencies": {
+    "react": "^0.14.7",
+    "redux": "^3.3.1"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.14"
+  }
+}
