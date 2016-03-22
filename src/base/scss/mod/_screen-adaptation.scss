@@ -1,0 +1,23 @@
+/**
+ * 响应式配置
+ */
+@media (min-width:320px) and (max-width: 374px) {
+    html {
+        font-size: 50px;
+    }
+}
+@media (min-width:375px) and (max-width: 413px) {
+    html {
+        font-size: 58px;
+    }
+}
+@media (min-width:414px) and (max-width: 767px) {
+    html {
+        font-size: 64px;
+    }
+}
+@media (min-width: 768px) {
+    html {
+        font-size: 100px;
+    }
+}
